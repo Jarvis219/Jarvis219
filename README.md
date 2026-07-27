@@ -23,7 +23,7 @@ I design full-stack architectures, build AI agents and Web3 apps, and lead teams
 - 🤖 **AI in production** — RAG, MCP tooling and agent state on Bedrock · Gemini · OpenAI
 - 🎨 **Frontend that feels good** — React / Next.js, plus Three.js + GLSL when the product deserves it
 - 👥 **Tech Lead** — team of 6, code standards, reviews, mentoring
-- 🎮 **Nights & weekends** — indie games (Unity, Phaser) and a native iOS app
+- 🎮 **Nights & weekends** — indie games shipped to the App Store & Google Play, plus a native iOS app
 
 ---
 
@@ -49,7 +49,14 @@ I design full-stack architectures, build AI agents and Web3 apps, and lead teams
 | --- | --- | --- |
 | **BuddyTrading** | Tech Lead | Crypto trading platform — realtime market data, NestJS microservices (gRPC / NATS / Dapr), Redis, WebSocket streaming, Hummingbot bots, Solidity contracts. 10k+ users, team of 6. |
 | **Abili AI Platform** | Backend Lead | Multi-LLM agent platform for a Japanese client — AWS Bedrock + Gemini, RAG search, MCP tooling, agent state on DynamoDB. |
-| **Whack-a-Mole** | Solo | Ad-free mobile arcade game — 600 levels in Unity, plus a Next.js landing & privacy site. Designed, built and released end-to-end. |
+
+**Shipped games — designed, built & released solo**
+
+| Game | Play now | Stores | Built with |
+| --- | --- | --- | --- |
+| **Vietnam Tower** (Tháp Phố Việt) | [web](https://vietnam-tower-builder.vercel.app/) | [App Store](https://apps.apple.com/us/app/vietnam-tower/id6786195621) | Stack-tower game covering all 63 Vietnamese provinces — Phaser + TypeScript + Vite + Capacitor, 64 unlockable themes, deterministic daily challenge, combo & power-up system, PWA, VI/EN, Vitest on the pure game logic |
+| **Whack-a-Mole** | [web](https://whack-a-mole-web.vercel.app/) | [App Store](https://apps.apple.com/app/6779471870) · [Google Play](https://play.google.com/store/apps/details?id=com.jarvis2192.studio.vn.whackamole) | Ad-free mobile arcade — 600 levels in Unity, plus a Next.js landing & privacy site |
+| **Glimmerling** | [web](https://glimmerling.vercel.app/) | iOS — coming soon | Unity 2D lantern-maze game for kids: engine-free C# core (seeded generation, BFS placement, Bresenham line-of-sight) covered by NUnit tests, procedurally generated royalty-free audio, SSR/SSG marketing site |
 
 **Open source & live demos**
 
@@ -66,8 +73,6 @@ I design full-stack architectures, build AI agents and Web3 apps, and lead teams
 **Currently building** (private repos — happy to walk through the code or architecture on request)
 
 - **LinguaFlow** — native iOS English-learning app. Swift / SwiftUI, Supabase (Postgres, Auth, Edge Functions, Realtime), SwiftData offline cache, AVFoundation + Speech for shadowing. BYOK AI: users bring their own Gemini / Claude / OpenAI key, stored in Keychain.
-- **Tháp Phố Việt** — stack-tower game covering all 63 Vietnamese provinces. Phaser + TypeScript + Vite, 64 unlockable themes, deterministic daily challenge, PWA, VI/EN, Vitest on the pure game logic.
-- **Glimmerling** — Unity 2D lantern-maze game for kids, engine-free C# core (seeded generation, BFS placement, Bresenham line-of-sight) covered by NUnit tests; procedurally generated royalty-free audio; SSR/SSG marketing site alongside.
 - **story-video** — local-first storytelling video pipeline: topic → LLM script → human review → voice → rendered video, scene as the unit of everything.
 
 ---
