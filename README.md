@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://jarvis-portfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-06050f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-anh-quang-696a51218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.npmjs.com/package/@jarvis-studio/scheduler-react"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
-  <a href="mailto:taquang.hskx.2000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://jarvis-portfolio-three.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-anh-quang-696a51218/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://www.npmjs.com/package/@jarvis-studio/scheduler-react"><b>npm</b></a> &nbsp;·&nbsp;
+  <a href="mailto:taquang.hskx.2000@gmail.com"><b>taquang.hskx.2000@gmail.com</b></a>
 </p>
 
 ---
@@ -30,25 +30,7 @@ I design full-stack architectures, build AI agents and Web3 apps, and lead teams
 
 ### Tech stack
 
-**Frontend** &nbsp;<img src="https://img.shields.io/badge/Expert-7c5cff?style=flat-square&labelColor=7c5cff" alt="Expert">
-
-<img src="https://img.shields.io/badge/React-0f0e1f?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Next.js-0f0e1f?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-0f0e1f?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"> <img src="https://img.shields.io/badge/Tailwind-0f0e1f?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Three.js%20%2F%20GLSL-0f0e1f?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js / GLSL"> <img src="https://img.shields.io/badge/GSAP-0f0e1f?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP">
-
-**Backend** &nbsp;<img src="https://img.shields.io/badge/Advanced-00e7c4?style=flat-square&labelColor=00e7c4" alt="Advanced">
-
-<img src="https://img.shields.io/badge/Node.js-0f0e1f?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"> <img src="https://img.shields.io/badge/NestJS-0f0e1f?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS"> <img src="https://img.shields.io/badge/RPC-gRPC-0f0e1f?style=for-the-badge&labelColor=7c5cff" alt="gRPC"> <img src="https://img.shields.io/badge/NATS-0f0e1f?style=for-the-badge&logo=natsdotio&logoColor=27AAE1" alt="NATS"> <img src="https://img.shields.io/badge/Redis-0f0e1f?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis"> <img src="https://img.shields.io/badge/PostgreSQL-0f0e1f?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-0f0e1f?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"> <img src="https://img.shields.io/badge/Prisma-0f0e1f?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-
-**AI / LLM** &nbsp;<img src="https://img.shields.io/badge/Advanced-00e7c4?style=flat-square&labelColor=00e7c4" alt="Advanced">
-
-<img src="https://img.shields.io/badge/AWS-Bedrock-0f0e1f?style=for-the-badge&labelColor=FF9900" alt="AWS Bedrock"> <img src="https://img.shields.io/badge/Gemini-0f0e1f?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini"> <img src="https://img.shields.io/badge/LLM-OpenAI-0f0e1f?style=for-the-badge&labelColor=10A37F" alt="OpenAI"> <img src="https://img.shields.io/badge/AI-RAG-0f0e1f?style=for-the-badge&labelColor=00b39a" alt="RAG"> <img src="https://img.shields.io/badge/MCP-0f0e1f?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="MCP">
-
-**Mobile** &nbsp;<img src="https://img.shields.io/badge/Advanced-00e7c4?style=flat-square&labelColor=00e7c4" alt="Advanced">
-
-<img src="https://img.shields.io/badge/Swift%20%2F%20SwiftUI-0f0e1f?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift / SwiftUI"> <img src="https://img.shields.io/badge/React%20Native-0f0e1f?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Capacitor-0f0e1f?style=for-the-badge&logo=capacitor&logoColor=119EFF" alt="Capacitor">
-
-**Web3 · DevOps · Games** &nbsp;<img src="https://img.shields.io/badge/Proficient-5a5a78?style=flat-square&labelColor=5a5a78" alt="Proficient">
-
-<img src="https://img.shields.io/badge/Solidity-0f0e1f?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"> <img src="https://img.shields.io/badge/ethers%20%2F%20wagmi-0f0e1f?style=for-the-badge&logo=ethereum&logoColor=8A92B2" alt="ethers / wagmi"> <img src="https://img.shields.io/badge/Docker-0f0e1f?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"> <img src="https://img.shields.io/badge/Cloud-AWS-0f0e1f?style=for-the-badge&labelColor=FF9900" alt="AWS"> <img src="https://img.shields.io/badge/Sentry-0f0e1f?style=for-the-badge&logo=sentry&logoColor=8F62D5" alt="Sentry"> <img src="https://img.shields.io/badge/Unity-0f0e1f?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"> <img src="https://img.shields.io/badge/Game-Phaser-0f0e1f?style=for-the-badge&labelColor=2EBAEA" alt="Phaser">
+<img src="./assets/stack.svg" width="100%" alt="Frontend (Expert): React, Next.js App Router/RSC, TypeScript, Tailwind CSS, Three.js/GLSL, GSAP. Backend (Advanced): Node.js, NestJS, gRPC, NATS, Dapr, Redis, PostgreSQL, MongoDB, DynamoDB, Prisma. AI/LLM (Advanced): AWS Bedrock, Gemini, OpenAI, RAG, MCP, agent tooling and memory. Mobile (Advanced): Swift/SwiftUI, React Native, Capacitor. Web3 (Proficient): Solidity, Hardhat, wagmi, ethers. DevOps (Proficient): Docker, AWS, CI/CD, Sentry, Vercel. Games (Proficient): Unity C#, Phaser, HTML5 Canvas.">
 
 ---
 
