@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Generate assets/stack.svg — the tech-stack strip for the profile README.
+"""Generate assets/tech-stack.svg — the tech-stack strip for the profile README.
 
 One self-contained SVG (brand icons inlined from tools/icons.json, no external
 requests) so the section can never reflow into one-item-per-line the way a row
 of separate <img> badges can.
 
-    python3 tools/gen_stack.py > assets/stack.svg
+    python3 tools/gen_stack.py > assets/tech-stack.svg
 
 Icon paths come from Simple Icons (CC0). Colours in icons.json are adjusted for
 legibility on the dark #06050f background, so they are not always the official
