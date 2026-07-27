@@ -61,7 +61,7 @@ flowchart LR
 
 | Project | Role | What it is |
 | --- | --- | --- |
-| **BuddyTrading** | Fullstack | Crypto trading platform — realtime market data, NestJS microservices (gRPC / NATS / Dapr), Redis, WebSocket streaming, Hummingbot bots, Solidity contracts. 10k+ users. |
+| **BuddyTrading** | Fullstack | Crypto trading platform — realtime market data, NestJS microservices (gRPC / NATS / Dapr), Redis, WebSocket streaming, Hummingbot bots, Solidity contracts. |
 | **Abili AI Platform** | Fullstack | Multi-LLM agent platform for a Japanese client — AWS Bedrock + Gemini, RAG search, MCP tooling, agent state on DynamoDB. |
 
 **Shipped games — designed, built & released solo**
