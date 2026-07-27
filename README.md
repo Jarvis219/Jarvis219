@@ -1,8 +1,9 @@
-<h1 align="center">Trần Anh Quang — “Jarvis”</h1>
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Trần Anh Quang (Jarvis) — Fullstack Developer · Tech Lead · Hanoi, Vietnam">
+</p>
 
 <p align="center">
-  <strong>Fullstack Developer · Tech Lead</strong><br>
-  Hanoi, Vietnam (GMT+7) — building for teams in 🇯🇵 Japan, 🇹🇭 Thailand & 🇻🇳 Vietnam
+  Building for teams in 🇯🇵 Japan &nbsp;·&nbsp; 🇹🇭 Thailand &nbsp;·&nbsp; 🇻🇳 Vietnam
 </p>
 
 <p align="center">
@@ -29,15 +30,46 @@ I design full-stack architectures, build AI agents and Web3 apps, and lead teams
 
 ### Tech stack
 
-| Domain | Depth | Tools |
-| --- | --- | --- |
-| **Frontend** | Expert | React · Next.js (App Router, RSC) · TypeScript · Tailwind · Three.js / GLSL · GSAP |
-| **Backend** | Advanced | Node.js · NestJS · gRPC · NATS · Redis · PostgreSQL · MongoDB · DynamoDB · Prisma |
-| **AI / LLM** | Advanced | AWS Bedrock · Gemini · OpenAI · RAG · MCP · agent tooling & memory |
-| **Mobile** | Advanced | React Native · Swift / SwiftUI · Capacitor |
-| **Web3** | Proficient | Solidity · Hardhat · wagmi · ethers |
-| **DevOps** | Proficient | Docker · AWS · CI/CD · Sentry |
-| **Games** | Proficient | Unity (C#) · Phaser · HTML5 Canvas |
+**Frontend** &nbsp;<img src="https://img.shields.io/badge/Expert-7c5cff?style=flat-square&labelColor=7c5cff" alt="Expert">
+
+<img src="https://img.shields.io/badge/React-0f0e1f?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Next.js-0f0e1f?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-0f0e1f?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"> <img src="https://img.shields.io/badge/Tailwind-0f0e1f?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Three.js%20%2F%20GLSL-0f0e1f?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js / GLSL"> <img src="https://img.shields.io/badge/GSAP-0f0e1f?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP">
+
+**Backend** &nbsp;<img src="https://img.shields.io/badge/Advanced-00e7c4?style=flat-square&labelColor=00e7c4" alt="Advanced">
+
+<img src="https://img.shields.io/badge/Node.js-0f0e1f?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"> <img src="https://img.shields.io/badge/NestJS-0f0e1f?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS"> <img src="https://img.shields.io/badge/gRPC-0f0e1f?style=for-the-badge&logo=trpc&logoColor=2596BE" alt="gRPC"> <img src="https://img.shields.io/badge/NATS-0f0e1f?style=for-the-badge&logo=natsdotio&logoColor=27AAE1" alt="NATS"> <img src="https://img.shields.io/badge/Redis-0f0e1f?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis"> <img src="https://img.shields.io/badge/PostgreSQL-0f0e1f?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-0f0e1f?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"> <img src="https://img.shields.io/badge/Prisma-0f0e1f?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+
+**AI / LLM** &nbsp;<img src="https://img.shields.io/badge/Advanced-00e7c4?style=flat-square&labelColor=00e7c4" alt="Advanced">
+
+<img src="https://img.shields.io/badge/AWS%20Bedrock-0f0e1f?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS Bedrock"> <img src="https://img.shields.io/badge/Gemini-0f0e1f?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini"> <img src="https://img.shields.io/badge/OpenAI-0f0e1f?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"> <img src="https://img.shields.io/badge/RAG-0f0e1f?style=for-the-badge&logo=databricks&logoColor=00e7c4" alt="RAG"> <img src="https://img.shields.io/badge/MCP-0f0e1f?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="MCP">
+
+**Mobile** &nbsp;<img src="https://img.shields.io/badge/Advanced-00e7c4?style=flat-square&labelColor=00e7c4" alt="Advanced">
+
+<img src="https://img.shields.io/badge/Swift%20%2F%20SwiftUI-0f0e1f?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift / SwiftUI"> <img src="https://img.shields.io/badge/React%20Native-0f0e1f?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Capacitor-0f0e1f?style=for-the-badge&logo=capacitor&logoColor=119EFF" alt="Capacitor">
+
+**Web3 · DevOps · Games** &nbsp;<img src="https://img.shields.io/badge/Proficient-5a5a78?style=flat-square&labelColor=5a5a78" alt="Proficient">
+
+<img src="https://img.shields.io/badge/Solidity-0f0e1f?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"> <img src="https://img.shields.io/badge/ethers%20%2F%20wagmi-0f0e1f?style=for-the-badge&logo=ethereum&logoColor=8A92B2" alt="ethers / wagmi"> <img src="https://img.shields.io/badge/Docker-0f0e1f?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"> <img src="https://img.shields.io/badge/AWS-0f0e1f?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"> <img src="https://img.shields.io/badge/Sentry-0f0e1f?style=for-the-badge&logo=sentry&logoColor=8F62D5" alt="Sentry"> <img src="https://img.shields.io/badge/Unity-0f0e1f?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"> <img src="https://img.shields.io/badge/Phaser-0f0e1f?style=for-the-badge&logo=phaser&logoColor=2EBAEA" alt="Phaser">
+
+---
+
+### How I build at scale
+
+End-to-end ownership — from client apps down to services, cache, data, infra and the AI layer.
+
+```mermaid
+flowchart LR
+    C["🖥️ Client<br/>Next.js · React Native<br/>SSR / RSC"]
+    G["🚪 API Gateway<br/>REST · gRPC · GraphQL<br/>JWT · rate-limit"]
+    S["⚙️ Microservices<br/>NestJS · NATS · Dapr<br/>WebSocket"]
+    R["⚡ Cache<br/>Redis<br/>pub/sub · queues"]
+    D["🗄️ Database<br/>PostgreSQL · MongoDB<br/>DynamoDB · Prisma"]
+    A["🤖 AI Layer<br/>Bedrock · Gemini · OpenAI<br/>RAG · MCP"]
+
+    C --> G --> S
+    S --> R
+    S --> D
+    S --> A
+```
 
 ---
 

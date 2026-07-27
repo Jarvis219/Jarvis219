@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Trần Anh Quang (Jarvis) — Fullstack Developer and Tech Lead, Hanoi Vietnam">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c5cff"/>
+      <stop offset="1" stop-color="#00e7c4"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.9"/>
+      <stop offset="0.45" stop-color="#00e7c4" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#00e7c4" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop offset="0" stop-color="#00e7c4" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#00e7c4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="core">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="0.45" stop-color="#7c5cff" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#00e7c4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="#06050f"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <circle cx="950" cy="110" r="270" fill="url(#glowA)"/>
+  <circle cx="1130" cy="280" r="210" fill="url(#glowB)"/>
+
+  <!-- orbit system -->
+  <g transform="translate(950 160)">
+    <g opacity="0.75">
+      <g>
+        <ellipse rx="152" ry="56" fill="none" stroke="url(#brand)" stroke-width="1.4" opacity="0.6"/>
+        <circle cx="152" cy="0" r="5" fill="#7c5cff"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+      </g>
+      <g transform="rotate(60)">
+        <ellipse rx="152" ry="56" fill="none" stroke="url(#brand)" stroke-width="1.4" opacity="0.45"/>
+        <circle cx="-152" cy="0" r="4" fill="#00e7c4"/>
+        <animateTransform attributeName="transform" type="rotate" from="60" to="420" dur="26s" repeatCount="indefinite"/>
+      </g>
+      <g transform="rotate(120)">
+        <ellipse rx="152" ry="56" fill="none" stroke="url(#brand)" stroke-width="1.4" opacity="0.35"/>
+        <circle cx="152" cy="0" r="3.5" fill="#a58bff"/>
+        <animateTransform attributeName="transform" type="rotate" from="120" to="-240" dur="34s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <circle r="46" fill="url(#core)">
+      <animate attributeName="r" values="42;50;42" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.85;1;0.85" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- copy -->
+  <g font-family="'Space Grotesk', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="80" y="80" font-size="13" letter-spacing="5" fill="#7d7da0">AI &#215; ARCHITECTURE &#215; PRODUCT</text>
+
+    <text x="80" y="146" font-size="56" font-family="Georgia, 'Times New Roman', serif" font-style="italic" fill="#ffffff">
+      Tr&#7847;n Anh Quang <tspan fill="url(#brand)">&#8220;Jarvis&#8221;</tspan>
+    </text>
+
+    <text x="80" y="182" font-size="20" fill="#c9c9de">Fullstack Developer <tspan fill="#5a5a78">&#183;</tspan> Tech Lead</text>
+    <text x="80" y="209" font-size="14" fill="#6f6f8a">Hanoi, Vietnam &#183; GMT+7 &#183; 6+ years shipping products end-to-end</text>
+
+    <g font-size="12" fill="#c9c9de" text-anchor="middle">
+      <rect x="80"  y="232" width="122" height="30" rx="15" fill="#7c5cff" fill-opacity="0.12" stroke="#7c5cff" stroke-opacity="0.35"/>
+      <text x="141" y="251">React &#183; Next.js</text>
+      <rect x="214" y="232" width="116" height="30" rx="15" fill="#7c5cff" fill-opacity="0.12" stroke="#7c5cff" stroke-opacity="0.35"/>
+      <text x="272" y="251">Node &#183; NestJS</text>
+      <rect x="342" y="232" width="118" height="30" rx="15" fill="#00e7c4" fill-opacity="0.10" stroke="#00e7c4" stroke-opacity="0.30"/>
+      <text x="401" y="251">AI &#183; RAG &#183; MCP</text>
+      <rect x="472" y="232" width="66" height="30" rx="15" fill="#00e7c4" fill-opacity="0.10" stroke="#00e7c4" stroke-opacity="0.30"/>
+      <text x="505" y="251">Web3</text>
+      <rect x="550" y="232" width="124" height="30" rx="15" fill="#00e7c4" fill-opacity="0.10" stroke="#00e7c4" stroke-opacity="0.30"/>
+      <text x="612" y="251">Three.js / GLSL</text>
+    </g>
+  </g>
+
+  <rect x="80" y="292" width="600" height="2" rx="1" fill="url(#fade)"/>
+</svg>
