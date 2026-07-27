@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://jarvis-portfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-06050f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-anh-quang"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-anh-quang-696a51218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.npmjs.com/package/@jarvis-studio/scheduler-react"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
   <a href="mailto:taquang.hskx.2000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
