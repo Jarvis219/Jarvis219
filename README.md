@@ -30,7 +30,7 @@ I design full-stack architectures, build AI agents and Web3 apps, and lead teams
 
 ### Tech stack
 
-<img src="./assets/stack.svg" width="100%" alt="Frontend (Expert): React, Next.js App Router/RSC, TypeScript, Tailwind CSS, Three.js/GLSL, GSAP. Backend (Advanced): Node.js, NestJS, gRPC, NATS, Dapr, Redis, PostgreSQL, MongoDB, DynamoDB, Prisma. AI/LLM (Advanced): AWS Bedrock, Gemini, OpenAI, RAG, MCP, agent tooling and memory. Mobile (Advanced): Swift/SwiftUI, React Native, Capacitor. Web3 (Proficient): Solidity, Hardhat, wagmi, ethers. DevOps (Proficient): Docker, AWS, CI/CD, Sentry, Vercel. Games (Proficient): Unity C#, Phaser, HTML5 Canvas.">
+<img src="./assets/stack.svg" width="100%" alt="Frontend (Expert): React, Next.js with RSC, TypeScript, Tailwind CSS, Three.js/GLSL, GSAP. Backend (Advanced): Node.js, NestJS, gRPC, NATS, Dapr, Redis, PostgreSQL, MongoDB, DynamoDB, Prisma. AI/LLM (Advanced): AWS Bedrock, Gemini, OpenAI, MCP, RAG, agent tooling and memory. Mobile (Advanced): Swift/SwiftUI, React Native, Capacitor. Web3 (Proficient): Solidity, ethers, wagmi, Hardhat. DevOps (Proficient): Docker, AWS, CI/CD, Sentry, Vercel. Games (Proficient): Unity C#, HTML5 Canvas, Phaser.">
 
 ---
 
