@@ -84,7 +84,6 @@ I design full-stack architectures, build AI agents and Web3 apps, and lead teams
 | **2023 — Present** | **Team Lead & Tech Lead** · Kiaisoft — fullstack architecture, team leadership, mentoring, AI / LLM |
 | **2022** | **Frontend Developer** · Icetea Labs — Next.js, Web3, standardized & unit-tested code |
 | **2020 — 2022** | **Frontend Developer** · Teneocto Technology — React, Angular, TypeScript |
-| **2016 — 2020** | **B.E. Information Technology** · FPT University — GPA 8.8 |
 
 ---
 
