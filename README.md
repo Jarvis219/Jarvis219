@@ -70,6 +70,14 @@ I design full-stack architectures, build AI agents and Web3 apps, and lead teams
 | [Game-Sky-Guardian](https://github.com/Jarvis219/Game-Sky-Guardian) | [demo](https://game-sky-guardian.vercel.app) | HTML5 Canvas space shooter — React 19 + Vite |
 | [Destiny](https://github.com/Jarvis219/Destiny) | [demo](https://destiny-alpha-two.vercel.app) | Vietnamese astrology (Tử Vi) — 100% client-side calculation, no backend |
 
+**Interactive labs** — live, source private
+
+| Lab | Live | What it is |
+| --- | --- | --- |
+| **Four Seasons** | [fairy-tale-seasons.vercel.app](https://fairy-tale-seasons.vercel.app) | Interactive 3D fairy-tale island flowing through spring → winter — cherry blossoms, fireflies, falling leaves and snow, with day/night and weather. Three.js |
+| **Crypto Data Space** | [crypto-data-space.vercel.app](https://crypto-data-space.vercel.app) | The crypto market as a sci-fi 3D universe — planets orbit, glow and react to price movement. Vite + React Three Fiber + Web Audio |
+| **MetaMask Social Login** | [metamask-social-pi.vercel.app](https://metamask-social-pi.vercel.app) | Wallet onboarding without seed phrases — social sign-in + password, Web3 UX experiment |
+
 **Currently building** (private repos — happy to walk through the code or architecture on request)
 
 - **LinguaFlow** — native iOS English-learning app. Swift / SwiftUI, Supabase (Postgres, Auth, Edge Functions, Realtime), SwiftData offline cache, AVFoundation + Speech for shadowing. BYOK AI: users bring their own Gemini / Claude / OpenAI key, stored in Keychain.
