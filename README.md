@@ -57,12 +57,12 @@ flowchart LR
 
 ### Selected work
 
-**Client & product work — led or owned**
+**Client & product work**
 
 | Project | Role | What it is |
 | --- | --- | --- |
-| **BuddyTrading** | Tech Lead | Crypto trading platform — realtime market data, NestJS microservices (gRPC / NATS / Dapr), Redis, WebSocket streaming, Hummingbot bots, Solidity contracts. 10k+ users, team of 6. |
-| **Abili AI Platform** | Backend Lead | Multi-LLM agent platform for a Japanese client — AWS Bedrock + Gemini, RAG search, MCP tooling, agent state on DynamoDB. |
+| **BuddyTrading** | Fullstack | Crypto trading platform — realtime market data, NestJS microservices (gRPC / NATS / Dapr), Redis, WebSocket streaming, Hummingbot bots, Solidity contracts. 10k+ users. |
+| **Abili AI Platform** | Fullstack | Multi-LLM agent platform for a Japanese client — AWS Bedrock + Gemini, RAG search, MCP tooling, agent state on DynamoDB. |
 
 **Shipped games — designed, built & released solo**
 
