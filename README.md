@@ -70,7 +70,7 @@ flowchart LR
 | --- | --- | --- | --- |
 | **Vietnam Tower** (Tháp Phố Việt) | [web](https://vietnam-tower-builder.vercel.app/) | [App Store](https://apps.apple.com/us/app/vietnam-tower/id6786195621) | Stack-tower game covering all 63 Vietnamese provinces — Phaser + TypeScript + Vite + Capacitor, 64 unlockable themes, deterministic daily challenge, combo & power-up system, PWA, VI/EN, Vitest on the pure game logic |
 | **Whack-a-Mole** | [web](https://whack-a-mole-web.vercel.app/) | [App Store](https://apps.apple.com/app/6779471870) · [Google Play](https://play.google.com/store/apps/details?id=com.jarvis2192.studio.vn.whackamole) | Ad-free mobile arcade — 600 levels in Unity, plus a Next.js landing & privacy site |
-| **Glimmerling** | [web](https://glimmerling.vercel.app/) | iOS — coming soon | Unity 2D lantern-maze game for kids: engine-free C# core (seeded generation, BFS placement, Bresenham line-of-sight) covered by NUnit tests, procedurally generated royalty-free audio, SSR/SSG marketing site |
+| **Glimmerling** | [web](https://glimmerling.vercel.app/) | [App Store](https://apps.apple.com/us/app/glimmerling/id6788989829) | Unity 2D lantern-maze game for kids: engine-free C# core (seeded generation, BFS placement, Bresenham line-of-sight) covered by NUnit tests, procedurally generated royalty-free audio, SSR/SSG marketing site |
 
 **Open source & live demos**
 
